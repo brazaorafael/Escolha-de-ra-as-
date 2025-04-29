@@ -1,0 +1,25 @@
+:root{
+  --bg:#0f0f0f; --card:#1e1e1e; --accent:#00d1b2; --txt:#e9e9e9; --muted:#666;
+}
+*{box-sizing:border-box;margin:0;font-family:-apple-system,Arial,sans-serif}
+body{background:var(--bg);color:var(--txt);padding:1.2rem;max-width:650px;margin:auto}
+header{text-align:center;margin-bottom:2rem}
+h1{font-size:2rem;margin-bottom:.4rem;color:var(--accent)}
+
+.field{margin-bottom:1.3rem}
+label{display:block;margin-bottom:.5rem;font-weight:600}
+input[type=range]{width:100%;appearance:none;background:var(--muted);height:6px;border-radius:3px}
+input[type=range]::-webkit-slider-thumb{appearance:none;width:22px;height:22px;border-radius:50%;background:var(--accent)}
+select{width:100%;padding:.6rem;border-radius:6px;border:1px solid var(--muted);background:var(--card);color:var(--txt)}
+button{width:100%;padding:.9rem;font-size:1.05rem;border:none;border-radius:6px;background:var(--accent);color:#fff;margin-top:.6rem}
+button[disabled]{opacity:.4}
+
+#resultados{margin-top:2rem}
+.card{background:var(--card);border-radius:10px;padding:1rem;margin-bottom:2rem;box-shadow:0 4px 8px rgba(0,0,0,.35)}
+.card img{width:100%;border-radius:6px;margin-bottom:.8rem}
+.card h3{margin:.3rem 0 .6rem;font-size:1.35rem;color:var(--accent)}
+small{color:var(--muted)}
+
+.form-lead{padding-top:1rem;border-top:1px dashed var(--muted)}
+.form-lead h2{font-size:1.2rem;margin-bottom:.8rem}
+.form-lead input{width:100%;padding:.6rem;border-radius:6px;border:1px solid var(--muted);background:var(--card);color:var(--txt);margin-bottom:1rem}

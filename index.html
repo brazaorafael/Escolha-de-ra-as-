@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Guia Inteligente de Raças</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Guia Inteligente de Raças</h1>
+  <p>Responda 12 perguntas e receba 3 recomendações ideais.</p>
+</header>
+
+<form id="quiz">
+  <div class="field">
+    <label for="espaco">Quanto espaço disponível na casa?</label>
+    <input type="range" id="espaco" name="espaco" min="1" max="5" list="escala">
+  </div>
+  <div class="field">
+    <label for="tempo">Quanto tempo diário para exercícios/treino?</label>
+    <input type="range" id="tempo" name="tempo" min="1" max="5" list="escala">
+  </div>
+  <div class="field">
+    <label for="energia">Nível de energia que prefere no cão?</label>
+    <input type="range" id="energia" name="energia" min="1" max="5" list="escala">
+  </div>
+  <div class="field">
+    <label for="criancas">Há crianças pequenas em casa?</label>
+    <select id="criancas" name="criancas">
+      <option value="1">Não</option>
+      <option value="5">Sim</option>
+    </select>
+  </div>
+  <div class="field">
+    <label for="pelos">Tolerância a pelos e cheiro?</label>
+    <input type="range" id="pelos" name="pelos" min="1" max="5" list="escala">
+  </div>
+  <div class="field">
+    <label for="orcamento">Orçamento mensal para cuidados (R$)</label>
+    <input type="range" id="orcamento" name="orcamento" min="1" max="5" list="escala">
+  </div>
+  <div class="field">
+    <label for="tamanho">Tamanho desejado do cão</label>
+    <input type="range" id="tamanho" name="tamanho" min="1" max="5" list="escala">
+  </div>
+  <div class="field">
+    <label for="alergia">Algum membro da família tem alergia a pelos?</label>
+    <select id="alergia" name="alergia">
+      <option value="5">Sim</option>
+      <option value="1">Não</option>
+    </select>
+  </div>
+  <div class="field">
+    <label for="clima">Clima predominante onde mora</label>
+    <select id="clima" name="clima">
+      <option value="1">Muito quente</option>
+      <option value="3">Morno / intermediário</option>
+      <option value="5">Frio a muito frio</option>
+    </select>
+  </div>
+  <div class="field">
+    <label for="experiencia">Experiência prévia com cães?</label>
+    <input type="range" id="experiencia" name="experiencia" min="1" max="5" list="escala">
+  </div>
+  <div class="field">
+    <label for="objetivo">Objetivo principal</label>
+    <select id="objetivo" name="objetivo">
+      <option value="1">Companhia</option>
+      <option value="3">Esporte / hobby</option>
+      <option value="5">Guarda / proteção</option>
+    </select>
+  </div>
+  <div class="field">
+    <label for="ausencia">Horas que a casa fica vazia por dia</label>
+    <input type="range" id="ausencia" name="ausencia" min="1" max="5" list="escala">
+  </div>
+
+  <button id="btn" type="submit" disabled>Carregando raças…</button>
+</form>
+
+<datalist id="escala">
+  <option value="1" label="Pouco"></option>
+  <option value="3" label="Médio"></option>
+  <option value="5" label="Muito"></option>
+</datalist>
+
+<section id="resultados" hidden></section>
+
+<script src="script.js"></script>
+</body>
+</html>
