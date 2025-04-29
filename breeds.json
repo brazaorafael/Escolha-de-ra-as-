@@ -17,7 +17,7 @@
       "alergia": 5,
       "clima": 4,
       "experiencia": 2,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "pequeno",
@@ -73,7 +73,7 @@
       "alergia": 3,
       "clima": 3,
       "experiencia": 3,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "pequeno",
@@ -129,7 +129,7 @@
       "alergia": 2,
       "clima": 3,
       "experiencia": 3,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "pequeno",
@@ -155,7 +155,7 @@
       "alergia": 5,
       "clima": 3,
       "experiencia": 2,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "pequeno",
@@ -239,7 +239,7 @@
       "alergia": 5,
       "clima": 3,
       "experiencia": 2,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "pequeno",
@@ -267,7 +267,7 @@
       "alergia": 3,
       "clima": 3,
       "experiencia": 2,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 3
     },
     "porte": "pequeno",
@@ -295,7 +295,7 @@
       "alergia": 3,
       "clima": 3,
       "experiencia": 2,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "pequeno",
@@ -379,7 +379,7 @@
       "alergia": 3,
       "clima": 3,
       "experiencia": 3,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "pequeno",
@@ -407,7 +407,7 @@
       "alergia": 4,
       "clima": 4,
       "experiencia": 3,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "pequeno",
@@ -435,7 +435,7 @@
       "alergia": 3,
       "clima": 3,
       "experiencia": 2,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 3
     },
     "porte": "pequeno",
@@ -463,7 +463,7 @@
       "alergia": 3,
       "clima": 3,
       "experiencia": 3,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "pequeno",
@@ -491,7 +491,7 @@
       "alergia": 2,
       "clima": 3,
       "experiencia": 3,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "médio",
@@ -603,7 +603,7 @@
       "alergia": 3,
       "clima": 4,
       "experiencia": 2,
-      "objetivo": 4,
+      "objetivo": 3,
       "ausencia": 2
     },
     "porte": "médio",
