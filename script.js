@@ -11,34 +11,37 @@ const btn    = document.getElementById("btn");
 const output = document.getElementById("resultados");
 let   BREEDS = [];
 
-// **Aqui mudamos para o JSON já validado**
+// Carrega o JSON validado
 fetch("breeds_valid.json")
-  .then(r => r.json())
-  .then(j => { 
-    BREEDS = j; 
-    btn.disabled = false; 
+  .then(res => res.json())
+  .then(json => {
+    BREEDS = json;
+    btn.disabled = false; // habilita botão após carregar
   })
-  .catch(e => { 
-    console.error(e); 
-    btn.textContent = "Erro no catálogo"; 
+  .catch(err => {
+    console.error("Erro ao carregar breeds_valid.json:", err);
+    btn.textContent = "Erro no catálogo";
   });
 
-form.addEventListener("submit", async ev => {
+form.addEventListener("submit", ev => {
   ev.preventDefault();
+
+  // pega respostas do quiz
   const ans = Object.fromEntries(new FormData(form).entries());
   CRITERIOS.forEach(c => ans[c] = Number(ans[c]) || 3);
 
-  const grupo = ans.objetivo <= 2 
-    ? "companhia" 
-    : ans.objetivo >= 4 
-      ? "guarda" 
+  // define grupo
+  const grupo = ans.objetivo <= 2
+    ? "companhia"
+    : ans.objetivo >= 4
+      ? "guarda"
       : "esporte";
 
-  const MAX = CRITERIOS.reduce((s, c) => s + PESOS_CRITERIOS[c] * 4, 0);
-  const porteOk = s => ans.tamanho >= 4 
-    ? s >= 4 
-    : ans.tamanho <= 2 
-      ? s <= 2 
+  const MAX = CRITERIOS.reduce((sum, c) => sum + PESOS_CRITERIOS[c] * 4, 0);
+  const porteOk = size => ans.tamanho >= 4
+    ? size >= 4
+    : ans.tamanho <= 2
+      ? size <= 2
       : true;
 
   const ranked = BREEDS
@@ -48,34 +51,32 @@ form.addEventListener("submit", async ev => {
         s + PESOS_CRITERIOS[c] * Math.abs((r.pesos[c] || 3) - ans[c]), 0);
       return {
         ...r,
-        compat: Math.round(100 - (diff / MAX) * 100),
-        grupo: r.grupo
+        compat: Math.round(100 - (diff / MAX) * 100)
       };
     })
     .sort((a, b) => b.compat - a.compat);
 
-  // filtra pelo grupo escolhido
-  const selecionadas = ranked
-    .filter(r => r.grupo === grupo)
-    .slice(0, 3);
-
-  await render(selecionadas.length ? selecionadas : ranked.slice(0, 3));
+  // pega top 3 do grupo
+  const recomendadas = ranked.filter(r => r.grupo === grupo).slice(0, 3);
+  render(recomendadas.length ? recomendadas : ranked.slice(0, 3));
 });
 
-async function render(list) {
+function render(list) {
   output.innerHTML = "";
-  list.forEach(r => output.appendChild(card(r)));
+  list.forEach(r => output.appendChild(createCard(r)));
   output.hidden = false;
 }
 
-function card(r) {
-  // **Usamos o valid_images primeiro, e só se não existir, usamos images**
-  const sources = r.valid_images && r.valid_images.length 
-    ? [...r.valid_images] 
-    : [...(r.images || [])];
-
-  // placeholder final
-  sources.push(`https://via.placeholder.com/600x400?text=${encodeURIComponent(r.nome)}`);
+function createCard(r) {
+  // **monta o array de tentativas de URL, na ordem:**
+  const sources = [
+    ...(r.valid_images  || []),
+    ...(r.images        || []),
+    // se quiser, pode reativar estes dois:
+    // `https://dog.ceo/api/breed/${r.slug.split("/").pop()}/images/random`,
+    // `https://source.unsplash.com/600x400/?${encodeURIComponent(r.nome)}+dog`,
+    `https://via.placeholder.com/600x400?text=${encodeURIComponent(r.nome)}`
+  ];
 
   const img = document.createElement("img");
   img.loading = "lazy";
@@ -83,26 +84,26 @@ function card(r) {
   img.dataset.idx = "0";
   img.src = sources[0];
 
-  img.onerror = async function() {
-    let idx = parseInt(this.dataset.idx, 10) + 1;
+  img.onerror = () => {
+    let idx = parseInt(img.dataset.idx, 10) + 1;
     if (idx < sources.length) {
-      this.src = sources[idx];
-      this.dataset.idx = idx.toString();
+      img.src = sources[idx];
+      img.dataset.idx = idx.toString();
     }
   };
 
-  const div = document.createElement("div");
-  div.className = "card";
-  div.append(img);
-  div.innerHTML += `
+  const card = document.createElement("div");
+  card.className = "card";
+  card.append(img);
+  card.innerHTML += `
     <h3>${r.nome}</h3>
-    <p>${r.texto || "(descrição em breve)"}</p>
+    <p>${r.texto || "(sem descrição)"}</p>
     <div class="barra-externa">
       <div class="barra-interna" style="width:${r.compat}%">
         ${r.compat}%
       </div>
     </div>
-    <small>Grupo: <strong>${r.grupo}</strong> • Criador: <strong>${r.criador || "(...)"}</strong></small>
+    <small>Grupo: <strong>${r.grupo}</strong> • Criador: <strong>${r.criador || "—"}</strong></small>
   `;
-  return div;
+  return card;
 }
