@@ -1,0 +1,1533 @@
+[
+  {
+    "nome": "Poodle Toy",
+    "slug": "poodle/toy",
+    "categoria": "popular",
+    "foto": "https://www.warrenphotographic.co.uk/photography/bigs/39329-Two-cute-red-Toy-Poodle-puppies-white-background.jpg",
+    "criador": "Canil Maison D'Maia",
+    "texto": "Inteligente, hipoalergênico e fácil de treinar.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 4,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 5,
+      "clima": 4,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://www.thesprucepets.com/thmb/T8uebkHsgFqpQZEfNp6X-4WRDq8=/3690x2456/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-991139016-493253fd4ce344b4bd160b7c3a6703a5.jpg",
+      "https://source.unsplash.com/600x400/?Poodle+Toy+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://www.warrenphotographic.co.uk/photography/bigs/39329-Two-cute-red-Toy-Poodle-puppies-white-background.jpg",
+      "https://www.thesprucepets.com/thmb/T8uebkHsgFqpQZEfNp6X-4WRDq8=/3690x2456/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-991139016-493253fd4ce344b4bd160b7c3a6703a5.jpg"
+    ]
+  },
+  {
+    "nome": "Shih Tzu",
+    "slug": "shih/tzu",
+    "categoria": "popular",
+    "foto": "https://www.pets4homes.co.uk/images/breeds/15/large/03b79ab542cf0b6d08a84788d93dea89.jpg",
+    "criador": "Moura Lessa Canil",
+    "texto": "Afetuoso, tranquilo e ótimo para apartamentos.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 2,
+      "energia": 2,
+      "criancas": 5,
+      "pelos": 4,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 3
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://www.thesprucepets.com/thmb/yVE9oSKGbIpPRBy2wLoAD-ofizc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/shih-tzu-dog-breed-profile-1117999-hero-5541b7f6f936478ca766d85ff5af202e.jpeg",
+      "https://source.unsplash.com/600x400/?Shih+Tzu+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://www.thesprucepets.com/thmb/yVE9oSKGbIpPRBy2wLoAD-ofizc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/shih-tzu-dog-breed-profile-1117999-hero-5541b7f6f936478ca766d85ff5af202e.jpeg"
+    ]
+  },
+  {
+    "nome": "Yorkshire Terrier",
+    "slug": "yorkshire/terrier",
+    "categoria": "popular",
+    "foto": "https://post.bark.co/wp-content/uploads/2022/07/Yorkshire-TerrierFT.jpg",
+    "criador": "Faig Yorkies",
+    "texto": "Pequeno, destemido e cheio de energia.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 4,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://www.selectadogbreed.com/media/1086/yorkshireterrier_adult.jpg",
+      "https://source.unsplash.com/600x400/?Yorkshire+Terrier+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://post.bark.co/wp-content/uploads/2022/07/Yorkshire-TerrierFT.jpg",
+      "https://www.selectadogbreed.com/media/1086/yorkshireterrier_adult.jpg"
+    ]
+  },
+  {
+    "nome": "Chihuahua",
+    "slug": "chihuahua",
+    "categoria": "popular",
+    "foto": "https://thedogsjournal.com/wp-content/uploads/2019/11/chihuahua-810789_1280.jpg",
+    "criador": "Canil Reyes",
+    "texto": "Pequeno, alerta e muito leal.",
+    "pesos": {
+      "espaco": 1,
+      "tempo": 2,
+      "energia": 3,
+      "criancas": 2,
+      "pelos": 2,
+      "orcamento": 2,
+      "tamanho": 1,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://petsnurturing.com/wp-content/uploads/2019/03/Long-Haired-Chihuahua-1.jpg",
+      "https://source.unsplash.com/600x400/?Chihuahua+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://thedogsjournal.com/wp-content/uploads/2019/11/chihuahua-810789_1280.jpg",
+      "https://petsnurturing.com/wp-content/uploads/2019/03/Long-Haired-Chihuahua-1.jpg"
+    ]
+  },
+  {
+    "nome": "Spitz Alemão (Lulu da Pomerânia)",
+    "slug": "spitz/alemao",
+    "categoria": "popular",
+    "foto": "https://filhotessuperdog.com.br/wp-content/uploads/2020/11/41c08a75-ba39-41a3-8dff-641514fcaf2c.jpg",
+    "criador": "Snow Touch Kennel",
+    "texto": "Vivo, extrovertido e com pelagem exuberante.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 5,
+      "orcamento": 4,
+      "tamanho": 1,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 2,
+    "energia": 4,
+    "images": [
+      "https://source.unsplash.com/600x400/?Spitz+Alem%C3%A3o+%28Lulu+da+Pomer%C3%A2nia%29+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "Maltês",
+    "slug": "maltes",
+    "categoria": "popular",
+    "foto": "https://thehappypuppysite.com/wp-content/uploads/2016/09/3.jpg",
+    "criador": "Canil Mukaton",
+    "texto": "Dócil, elegante e ótimo para alérgicos.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 3,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 5,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://thehappypuppysite.com/wp-content/uploads/2016/09/3.jpg",
+      "https://source.unsplash.com/600x400/?Malt%C3%AAs+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://thehappypuppysite.com/wp-content/uploads/2016/09/3.jpg",
+      "https://thehappypuppysite.com/wp-content/uploads/2016/09/3.jpg"
+    ]
+  },
+  {
+    "nome": "Lhasa Apso",
+    "slug": "lhasa/apso",
+    "categoria": "popular",
+    "foto": "https://worlddogfinder.com/upload/media/lhasa_apso_dog_playing_wuG7wadWFD.jpg",
+    "criador": "Cuccioli Kennel",
+    "texto": "Independente, protetor e com pelagem longa.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 2,
+      "criancas": 4,
+      "pelos": 5,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 2,
+    "images": [
+      "https://worlddogfinder.com/upload/media/lhasa_apso_dog_playing_wuG7wadWFD.jpg",
+      "https://source.unsplash.com/600x400/?Lhasa+Apso+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://worlddogfinder.com/upload/media/lhasa_apso_dog_playing_wuG7wadWFD.jpg",
+      "https://worlddogfinder.com/upload/media/lhasa_apso_dog_playing_wuG7wadWFD.jpg"
+    ]
+  },
+  {
+    "nome": "Pug",
+    "slug": "pug",
+    "categoria": "popular",
+    "foto": "http://www.petpaw.com.au/wp-content/uploads/2014/06/Pug-4.jpg",
+    "criador": "Pugs Marines",
+    "texto": "Sociável, brincalhão e ótimo para famílias.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 2,
+      "energia": 2,
+      "criancas": 5,
+      "pelos": 3,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 2,
+      "clima": 2,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 3
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 2,
+    "images": [
+      "https://getwallpapers.com/wallpaper/full/0/6/b/759650-gorgerous-pug-puppies-wallpaper-2048x2048.jpg",
+      "https://source.unsplash.com/600x400/?Pug+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://getwallpapers.com/wallpaper/full/0/6/b/759650-gorgerous-pug-puppies-wallpaper-2048x2048.jpg"
+    ]
+  },
+  {
+    "nome": "Bichon Frisé",
+    "slug": "bichon/frise",
+    "categoria": "rara",
+    "foto": "http://www.dog-learn.com/dog-breeds/bichon-frise/images/bichon-frise-u1.jpg",
+    "criador": "Canil Cotta",
+    "texto": "Alegre, afetuoso e com pelagem hipoalergênica.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 3,
+      "criancas": 5,
+      "pelos": 4,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 5,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://cdn.fotofits.com/petzlover/gallery/img/l/bichon-frise-puppy-851620.jpg",
+      "https://source.unsplash.com/600x400/?Bichon+Fris%C3%A9+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://cdn.fotofits.com/petzlover/gallery/img/l/bichon-frise-puppy-851620.jpg"
+    ]
+  },
+  {
+    "nome": "Boston Terrier",
+    "slug": "boston/terrier",
+    "categoria": "popular",
+    "foto": "https://animalsbreeds.com/wp-content/uploads/2014/07/Boston-Terrier-8.jpg",
+    "criador": "Royal Bourbon",
+    "texto": "Animado, inteligente e fácil de cuidar.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 2,
+      "energia": 3,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 3
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://animalsbreeds.com/wp-content/uploads/2014/07/Boston-Terrier-8.jpg",
+      "https://source.unsplash.com/600x400/?Boston+Terrier+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://animalsbreeds.com/wp-content/uploads/2014/07/Boston-Terrier-8.jpg",
+      "https://animalsbreeds.com/wp-content/uploads/2014/07/Boston-Terrier-8.jpg"
+    ]
+  },
+  {
+    "nome": "Papillon",
+    "slug": "papillon",
+    "categoria": "rara",
+    "foto": "https://cdn.pixabay.com/photo/2018/02/01/17/06/dog-3126600_1280.jpg",
+    "criador": "Canil Príncipe dos Papillons",
+    "texto": "Ágil, inteligente e muito carinhoso.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 3,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 4,
+    "images": [
+      "http://animalsbreeds.com/wp-content/uploads/2014/07/Papillon-dog-6.jpg",
+      "https://source.unsplash.com/600x400/?Papillon+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "Pekingese",
+    "slug": "pekingese",
+    "categoria": "rara",
+    "foto": "https://cdn.pixabay.com/photo/2022/05/08/16/43/pekingese-7182085_1280.jpg",
+    "criador": "Canil Lua dos Pekingeses",
+    "texto": "Orgulhoso, independente e muito apegado ao tutor.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 2,
+      "criancas": 3,
+      "pelos": 5,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 3,
+      "clima": 2,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 2,
+    "images": [
+      "https://www.hundeo.com/wp-content/uploads/2019/09/Pekinese.jpg",
+      "https://source.unsplash.com/600x400/?Pekingese+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://www.hundeo.com/wp-content/uploads/2019/09/Pekinese.jpg"
+    ]
+  },
+  {
+    "nome": "Japanese Chin",
+    "slug": "japanese/chin",
+    "categoria": "rara",
+    "foto": "https://cdn.pixabay.com/photo/2020/03/22/08/19/japanese-chin-4956591_1280.jpg",
+    "criador": "My Little Chin",
+    "texto": "Pequeno, elegante e afetuoso.",
+    "pesos": {
+      "espaco": 1,
+      "tempo": 2,
+      "energia": 2,
+      "criancas": 4,
+      "pelos": 4,
+      "orcamento": 2,
+      "tamanho": 1,
+      "alergia": 3,
+      "clima": 2,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 2,
+    "images": [
+      "https://cdn.fotofits.com/petzlover/gallery/img/l/japanese-chin-830922.jpg",
+      "https://source.unsplash.com/600x400/?Japanese+Chin+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://cdn.fotofits.com/petzlover/gallery/img/l/japanese-chin-830922.jpg"
+    ]
+  },
+  {
+    "nome": "Brussels Griffon",
+    "slug": "brussels/griffon",
+    "categoria": "rara",
+    "foto": "https://cdn.pixabay.com/photo/2016/04/25/08/48/brussels-griffon-1354624_1280.jpg",
+    "criador": "Canil Sweet Griffon",
+    "texto": "Expressivo, alerta e extremamente companheiro.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 3,
+      "criancas": 4,
+      "pelos": 4,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://www.thesprucepets.com/thmb/9hSStxwacHxYLpb04Tjhpwtxfy0=/1280x853/filters:fill(auto,1)/Brussels-Griffon-148258252-resized-58a477815f9b58819c9002e7.jpg",
+      "https://source.unsplash.com/600x400/?Brussels+Griffon+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://www.thesprucepets.com/thmb/9hSStxwacHxYLpb04Tjhpwtxfy0=/1280x853/filters:fill(auto,1)/Brussels-Griffon-148258252-resized-58a477815f9b58819c9002e7.jpg"
+    ]
+  },
+  {
+    "nome": "Italian Greyhound",
+    "slug": "italian/greyhound",
+    "categoria": "rara",
+    "foto": "https://cdn.pixabay.com/photo/2019/06/19/15/04/italian-greyhound-4283873_1280.jpg",
+    "criador": "Canil Galgos de Aruanda",
+    "texto": "Elegante, sensível e muito rápido.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 4,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 4,
+      "clima": 4,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 4,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Italian_Greyhound_standing_gray_(cropped).jpg/1200px-Italian_Greyhound_standing_gray_(cropped).jpg",
+      "https://source.unsplash.com/600x400/?Italian+Greyhound+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Italian_Greyhound_standing_gray_(cropped).jpg/1200px-Italian_Greyhound_standing_gray_(cropped).jpg"
+    ]
+  },
+  {
+    "nome": "Cavalier King Charles Spaniel",
+    "slug": "cavalier/king/charles",
+    "categoria": "popular",
+    "foto": "https://cdn.pixabay.com/photo/2019/12/28/17/39/dog-4726782_1280.jpg",
+    "criador": "Canil Villa dos Cavalier",
+    "texto": "Amoroso, dócil e adaptável.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 2,
+      "energia": 3,
+      "criancas": 5,
+      "pelos": 4,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "http://3.bp.blogspot.com/-TuUwxi-_B60/T8nNqt-5s8I/AAAAAAAAAug/AptLf_dWBaY/s1600/Cavalier_King_Charles_Spaniel_Puppies_pic.jpg",
+      "https://source.unsplash.com/600x400/?Cavalier+King+Charles+Spaniel+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": [
+      "http://3.bp.blogspot.com/-TuUwxi-_B60/T8nNqt-5s8I/AAAAAAAAAug/AptLf_dWBaY/s1600/Cavalier_King_Charles_Spaniel_Puppies_pic.jpg"
+    ]
+  },
+  {
+    "nome": "Dachshund Miniatura",
+    "slug": "dachshund/miniatura",
+    "categoria": "popular",
+    "foto": "https://cdn.pixabay.com/photo/2017/09/25/19/29/dachshund-2789153_1280.jpg",
+    "criador": "Canil von Lowenherz",
+    "texto": "Teimoso, brincalhão e excelente farejador.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 3,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://www.mypetzilla.co.uk/files/3215/4177/2360/Miniature_Dachshund_Puppy.jpg",
+      "https://source.unsplash.com/600x400/?Dachshund+Miniatura+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "Beagle",
+    "slug": "beagle",
+    "categoria": "popular",
+    "foto": "https://cdn.pixabay.com/photo/2017/03/30/12/53/beagle-2182907_1280.jpg",
+    "criador": "Canil do Balaco Braco",
+    "texto": "Brincalhão, curioso e incansável.",
+    "pesos": {
+      "espaco": 3,
+      "tempo": 4,
+      "energia": 5,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 3,
+      "ausencia": 2
+    },
+    "porte": "médio",
+    "espaco": 3,
+    "energia": 5,
+    "images": [
+      "https://www.thesprucepets.com/thmb/76Jd0a4_CBxXNyBah2gbK099xGo=/4367x0/filters:no_upscale():strip_icc()/beagle-RolfKopfle-Photolibrary-Getty-135631212-56a26b1d3df78cf772756667.jpg",
+      "https://source.unsplash.com/600x400/?Beagle+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": [
+      "https://www.thesprucepets.com/thmb/76Jd0a4_CBxXNyBah2gbK099xGo=/4367x0/filters:no_upscale():strip_icc()/beagle-RolfKopfle-Photolibrary-Getty-135631212-56a26b1d3df78cf772756667.jpg"
+    ]
+  },
+  {
+    "nome": "Staffordshire Bull Terrier",
+    "slug": "staffordshire/bull/terrier",
+    "categoria": "popular",
+    "foto": "https://cdn.pixabay.com/photo/2019/02/17/10/24/staffordshire-bull-terrier-4001128_1280.jpg",
+    "criador": "Canil Star Staff",
+    "texto": "Forte, amigável e protetor.",
+    "pesos": {
+      "espaco": 3,
+      "tempo": 3,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "médio",
+    "espaco": 3,
+    "energia": 4,
+    "images": [
+      "https://breedadvisor.com/wp-content/uploads/2020/03/staffordshire-bull-terrier-header.gif",
+      "https://source.unsplash.com/600x400/?Staffordshire+Bull+Terrier+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": [
+      "https://breedadvisor.com/wp-content/uploads/2020/03/staffordshire-bull-terrier-header.gif"
+    ]
+  },
+  {
+    "nome": "Australian Shepherd Miniature",
+    "slug": "australian/shepherd/miniature",
+    "categoria": "trabalho",
+    "foto": "https://cdn.pixabay.com/photo/2020/05/16/10/46/dog-5176761_1280.jpg",
+    "criador": "Canil Brisa D'Austrália",
+    "texto": "Ágil, inteligente e dedicado.",
+    "pesos": {
+      "espaco": 3,
+      "tempo": 5,
+      "energia": 5,
+      "criancas": 5,
+      "pelos": 3,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 4,
+      "objetivo": 3,
+      "ausencia": 1
+    },
+    "porte": "médio",
+    "espaco": 3,
+    "energia": 5,
+    "images": [
+      "https://i.pinimg.com/originals/d7/62/87/d762872d15f4fd9a4fa535829c430dd5.jpg",
+      "https://source.unsplash.com/600x400/?Australian+Shepherd+Miniature+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": [
+      "https://i.pinimg.com/originals/d7/62/87/d762872d15f4fd9a4fa535829c430dd5.jpg"
+    ]
+  },
+  {
+    "nome": "Border Collie",
+    "slug": "border/collie",
+    "categoria": "trabalho",
+    "foto": "https://cdn.pixabay.com/photo/2017/07/31/11/21/border-collie-2555576_1280.jpg",
+    "criador": "Canil Alvorada Border Collies",
+    "texto": "Extremamente inteligente, rápido e atento.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 5,
+      "energia": 5,
+      "criancas": 5,
+      "pelos": 3,
+      "orcamento": 3,
+      "tamanho": 3,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 4,
+      "objetivo": 3,
+      "ausencia": 1
+    },
+    "porte": "médio",
+    "espaco": 4,
+    "energia": 5,
+    "images": [
+      "https://www.petcare.com.au/wp-content/uploads/2017/09/Border-Collie_PetCare-4.jpg",
+      "https://source.unsplash.com/600x400/?Border+Collie+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": [
+      "https://www.petcare.com.au/wp-content/uploads/2017/09/Border-Collie_PetCare-4.jpg"
+    ]
+  },
+  {
+    "nome": "Whippet",
+    "slug": "whippet",
+    "categoria": "popular",
+    "foto": "https://cdn.pixabay.com/photo/2020/01/08/18/19/whippet-4748928_1280.jpg",
+    "criador": "Canil Runnin' Free",
+    "texto": "Elegante, rápido e muito afetuoso.",
+    "pesos": {
+      "espaco": 3,
+      "tempo": 3,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 3,
+      "clima": 4,
+      "experiencia": 2,
+      "objetivo": 3,
+      "ausencia": 2
+    },
+    "porte": "médio",
+    "espaco": 3,
+    "energia": 4,
+    "images": [
+      "https://www.k9rl.com/wp-content/uploads/2017/02/Whippet-768x1185.jpg",
+      "https://source.unsplash.com/600x400/?Whippet+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": [
+      "https://www.k9rl.com/wp-content/uploads/2017/02/Whippet-768x1185.jpg"
+    ]
+  },
+  {
+    "nome": "Pastor Alemão",
+    "slug": "pastor/alemao",
+    "categoria": "trabalho",
+    "foto": "https://cdn.pixabay.com/photo/2021/06/07/18/25/german-shepherd-6318657_1280.jpg",
+    "criador": "Canil Sadonana",
+    "texto": "Inteligente, leal e um dos melhores cães de guarda do mundo.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 5,
+      "energia": 5,
+      "criancas": 5,
+      "pelos": 3,
+      "orcamento": 3,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 4,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 5,
+    "energia": 5,
+    "images": [
+      "https://cdn.pixabay.com/photo/2021/06/07/18/25/german-shepherd-6318657_1280.jpg",
+      "https://source.unsplash.com/600x400/?Pastor+Alem%C3%A3o+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Rottweiler",
+    "slug": "rottweiler",
+    "categoria": "trabalho",
+    "foto": "https://images.unsplash.com/photo-1586281380345-3e44c4bd330b?auto=format&fit=crop&w=800&q=60",
+    "criador": "Canil Black Champion",
+    "texto": "Forte, corajoso e um excelente guardião da família.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 4,
+      "energia": 4,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 5,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 5,
+    "energia": 4,
+    "images": [
+      "https://images.unsplash.com/photo-1586281380345-3e44c4bd330b?auto=format&fit=crop&w=800&q=60",
+      "https://source.unsplash.com/600x400/?Rottweiler+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Dobermann",
+    "slug": "dobermann",
+    "categoria": "trabalho",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dobermann2.jpg",
+    "criador": "Canil Von Olivenbaum",
+    "texto": "Ágil, protetor e muito inteligente, é excelente para guarda pessoal.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 5,
+      "energia": 5,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 5,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 5,
+    "energia": 5,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dobermann2.jpg",
+      "https://source.unsplash.com/600x400/?Dobermann+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Cane Corso",
+    "slug": "cane/corso",
+    "categoria": "trabalho",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cane_Corso_-_Italian_Mastiff.jpg",
+    "criador": "Canil Cane Corso Brasil",
+    "texto": "Imponente, calmo e protetor, perfeito para guarda de grandes áreas.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 4,
+      "energia": 3,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 5,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 5,
+    "energia": 4,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/02/Cane_Corso_-_Italian_Mastiff.jpg",
+      "https://source.unsplash.com/600x400/?Cane+Corso+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Fila Brasileiro",
+    "slug": "fila/brasileiro",
+    "categoria": "trabalho",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fila_Brasileiro_30_anos.jpg",
+    "criador": "Canil Rio Grande von Voigt & Filhos",
+    "texto": "Forte, territorialista e extremamente leal à família.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 4,
+      "energia": 4,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 4,
+      "experiencia": 5,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "gigante",
+    "espaco": 5,
+    "energia": 4,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fila_Brasileiro_30_anos.jpg",
+      "https://source.unsplash.com/600x400/?Fila+Brasileiro+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Mastim Napolitano",
+    "slug": "mastim/napolitano",
+    "categoria": "trabalho",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/9/91/MastinoNapoletano.jpg",
+    "criador": "Canil Romão d'Italia",
+    "texto": "Massivo, calmo e naturalmente guardião.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 3,
+      "energia": 2,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 5,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "gigante",
+    "espaco": 5,
+    "energia": 3,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/91/MastinoNapoletano.jpg",
+      "https://source.unsplash.com/600x400/?Mastim+Napolitano+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Bullmastiff",
+    "slug": "bullmastiff",
+    "categoria": "trabalho",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bullmastiff_M.jpg",
+    "criador": "Canil Guardian's Castle",
+    "texto": "Tranquilo, firme e excelente cão de guarda silencioso.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 3,
+      "energia": 2,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 4,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 5,
+    "energia": 3,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bullmastiff_M.jpg",
+      "https://source.unsplash.com/600x400/?Bullmastiff+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Dogo Argentino",
+    "slug": "dogo/argentino",
+    "categoria": "trabalho",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Dogoargentino.jpg",
+    "criador": "Canil Dogo de Aruanda",
+    "texto": "Corajoso, equilibrado e muito fiel à família.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 4,
+      "energia": 4,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 4,
+      "experiencia": 5,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 5,
+    "energia": 5,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/8/8a/Dogoargentino.jpg",
+      "https://source.unsplash.com/600x400/?Dogo+Argentino+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Pastor Belga Malinois",
+    "slug": "pastor/belga/malinois",
+    "categoria": "trabalho",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/4/49/Belgian_Malinois_600.jpg",
+    "criador": "Canil Vullkanun",
+    "texto": "Extremamente ágil, inteligente e dedicado à proteção.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 5,
+      "energia": 5,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 4,
+      "tamanho": 4,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 5,
+      "objetivo": 5,
+      "ausencia": 1
+    },
+    "porte": "grande",
+    "espaco": 4,
+    "energia": 5,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/Belgian_Malinois_600.jpg",
+      "https://source.unsplash.com/600x400/?Pastor+Belga+Malinois+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Akita Inu",
+    "slug": "akita/inu",
+    "categoria": "rara",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/2/22/Akita_inu.jpeg",
+    "criador": "Canil Akita do Sol",
+    "texto": "Reservado, protetor e muito leal à família.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 3,
+      "energia": 3,
+      "criancas": 3,
+      "pelos": 4,
+      "orcamento": 3,
+      "tamanho": 4,
+      "alergia": 2,
+      "clima": 5,
+      "experiencia": 4,
+      "objetivo": 5,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 4,
+    "energia": 3,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/22/Akita_inu.jpeg",
+      "https://source.unsplash.com/600x400/?Akita+Inu+dog"
+    ],
+    "grupo": "guarda",
+    "valid_images": []
+  },
+  {
+    "nome": "Golden Retriever",
+    "slug": "golden/retriever",
+    "categoria": "popular",
+    "foto": "https://cdn.pixabay.com/photo/2017/09/25/18/22/dog-2785074_1280.jpg",
+    "criador": "Golden House Kennel",
+    "texto": "Amável, inteligente e excelente para famílias ativas.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 4,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 3,
+      "orcamento": 3,
+      "tamanho": 4,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 3,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 4,
+    "energia": 4,
+    "images": [
+      "https://cdn.pixabay.com/photo/2017/09/25/18/22/dog-2785074_1280.jpg",
+      "https://source.unsplash.com/600x400/?Golden+Retriever+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": []
+  },
+  {
+    "nome": "Labrador Retriever",
+    "slug": "labrador/retriever",
+    "categoria": "popular",
+    "foto": "https://cdn.pixabay.com/photo/2018/02/21/15/06/dog-3164108_1280.jpg",
+    "criador": "Top Labs Kennel",
+    "texto": "Amistoso, confiável e muito enérgico.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 5,
+      "energia": 5,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 4,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 3,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 4,
+    "energia": 5,
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/02/21/15/06/dog-3164108_1280.jpg",
+      "https://source.unsplash.com/600x400/?Labrador+Retriever+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": []
+  },
+  {
+    "nome": "Boxer",
+    "slug": "boxer",
+    "categoria": "guarda",
+    "foto": "https://cdn.pixabay.com/photo/2016/11/14/04/49/boxer-1820087_1280.jpg",
+    "criador": "Boxer Champs Kennel",
+    "texto": "Protetor, brincalhão e cheio de energia.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 4,
+      "energia": 5,
+      "criancas": 5,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 4,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 4,
+    "energia": 5,
+    "images": [
+      "https://cdn.pixabay.com/photo/2016/11/14/04/49/boxer-1820087_1280.jpg",
+      "https://source.unsplash.com/600x400/?Boxer+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "Setter Irlandês",
+    "slug": "setter/irlandes",
+    "categoria": "esporte",
+    "foto": "https://cdn.pixabay.com/photo/2018/04/16/20/32/irish-setter-3326760_1280.jpg",
+    "criador": "Red Glory Setters",
+    "texto": "Animado, sociável e apaixonado por atividades ao ar livre.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 5,
+      "energia": 5,
+      "criancas": 5,
+      "pelos": 3,
+      "orcamento": 3,
+      "tamanho": 4,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 3,
+      "ausencia": 1
+    },
+    "porte": "grande",
+    "espaco": 4,
+    "energia": 5,
+    "images": [
+      "https://cdn.pixabay.com/photo/2018/04/16/20/32/irish-setter-3326760_1280.jpg",
+      "https://source.unsplash.com/600x400/?Setter+Irland%C3%AAs+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": []
+  },
+  {
+    "nome": "Weimaraner",
+    "slug": "weimaraner",
+    "categoria": "esporte",
+    "foto": "https://cdn.pixabay.com/photo/2020/02/03/13/21/weimaraner-4814298_1280.jpg",
+    "criador": "Weimar Excellence",
+    "texto": "Atlético, leal e precisa de muita atividade física.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 5,
+      "energia": 5,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 4,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 3,
+      "ausencia": 1
+    },
+    "porte": "grande",
+    "espaco": 4,
+    "energia": 5,
+    "images": [
+      "https://cdn.pixabay.com/photo/2020/02/03/13/21/weimaraner-4814298_1280.jpg",
+      "https://source.unsplash.com/600x400/?Weimaraner+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": []
+  },
+  {
+    "nome": "Samoieda",
+    "slug": "samoieda",
+    "categoria": "rara",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/7/72/Samoyed_Dog.jpg",
+    "criador": "Canil Nordic's Kariri",
+    "texto": "Amigável, sociável e com pelagem branca fofa.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 4,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 5,
+      "orcamento": 4,
+      "tamanho": 4,
+      "alergia": 2,
+      "clima": 2,
+      "experiencia": 3,
+      "objetivo": 3,
+      "ausencia": 1
+    },
+    "porte": "grande",
+    "espaco": 4,
+    "energia": 4,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/72/Samoyed_Dog.jpg",
+      "https://source.unsplash.com/600x400/?Samoieda+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": []
+  },
+  {
+    "nome": "Dogue Alemão",
+    "slug": "dogue/alemao",
+    "categoria": "popular",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Great_Dane_blue.jpg",
+    "criador": "Canil Solar Wonderful",
+    "texto": "Gentil gigante, calmo em casa mas precisa de espaço.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 3,
+      "energia": 3,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 3,
+      "ausencia": 2
+    },
+    "porte": "gigante",
+    "espaco": 5,
+    "energia": 3,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/b/b6/Great_Dane_blue.jpg",
+      "https://source.unsplash.com/600x400/?Dogue+Alem%C3%A3o+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": []
+  },
+  {
+    "nome": "Shiba Inu",
+    "slug": "shiba/inu/jp",
+    "categoria": "rara",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Shiba_inu_taiki.jpg",
+    "criador": "Mazzini Kennel",
+    "texto": "Independente, alerta e compacto.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 4,
+      "criancas": 3,
+      "pelos": 4,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 2,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "médio",
+    "espaco": 2,
+    "energia": 4,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6b/Shiba_inu_taiki.jpg",
+      "https://source.unsplash.com/600x400/?Shiba+Inu+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "Bulldog Francês",
+    "slug": "bulldog/frances",
+    "categoria": "popular",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/3/32/French_Bulldog.jpg",
+    "criador": "Canil Império Paulista",
+    "texto": "Brincalhão, companheiro e adaptado a apartamentos.",
+    "pesos": {
+      "espaco": 1,
+      "tempo": 2,
+      "energia": 2,
+      "criancas": 4,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 3,
+      "clima": 2,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 3
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 2,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/32/French_Bulldog.jpg",
+      "https://source.unsplash.com/600x400/?Bulldog+Franc%C3%AAs+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "São Bernardo",
+    "slug": "sao/bernardo",
+    "categoria": "rara",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/7/79/St_Bernard.jpg",
+    "criador": "Canil Casa do Bernardo",
+    "texto": "Gentil, protetor e famoso cão de resgate alpino.",
+    "pesos": {
+      "espaco": 5,
+      "tempo": 3,
+      "energia": 3,
+      "criancas": 5,
+      "pelos": 4,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 2,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "gigante",
+    "espaco": 5,
+    "energia": 3,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/79/St_Bernard.jpg",
+      "https://source.unsplash.com/600x400/?S%C3%A3o+Bernardo+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "Coton de Tulear",
+    "slug": "coton/tulear",
+    "categoria": "rara",
+    "foto": "https://cdn.pixabay.com/photo/2020/06/23/09/58/coton-de-tulear-5332431_1280.jpg",
+    "criador": "Canil Amur Ashar",
+    "texto": "Carinhoso, sociável e com pelagem macia semelhante ao algodão. Ideal para companhia em lares de todos os tamanhos.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 3,
+      "criancas": 5,
+      "pelos": 4,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 4,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://cdn.pixabay.com/photo/2020/06/23/09/58/coton-de-tulear-5332431_1280.jpg",
+      "https://source.unsplash.com/600x400/?Coton+de+Tulear+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "Pembroke Welsh Corgi",
+    "slug": "corgi/pembroke",
+    "categoria": "popular",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pembroke_Welsh_Corgi%2C_Bosva.jpg",
+    "criador": "Corgis do Vale",
+    "texto": "Pequeno, inteligente e excelente para famílias; precisa de exercícios moderados.",
+    "pesos": {
+      "espaco": 2,
+      "tempo": 3,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 3,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 2,
+    "energia": 4,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pembroke_Welsh_Corgi%2C_Bosva.jpg",
+      "https://source.unsplash.com/600x400/?Pembroke+Welsh+Corgi+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "Basenji",
+    "slug": "basenji",
+    "categoria": "rara",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Basenji_flanc.jpg",
+    "criador": "Canil African Hounds",
+    "texto": "Ágil, quase silencioso (não late) e independente.",
+    "pesos": {
+      "espaco": 3,
+      "tempo": 4,
+      "energia": 4,
+      "criancas": 3,
+      "pelos": 2,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 2,
+      "clima": 4,
+      "experiencia": 4,
+      "objetivo": 3,
+      "ausencia": 2
+    },
+    "porte": "médio",
+    "espaco": 3,
+    "energia": 4,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/4/4b/Basenji_flanc.jpg",
+      "https://source.unsplash.com/600x400/?Basenji+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": []
+  },
+  {
+    "nome": "Boiadeiro Bernês",
+    "slug": "boiadeiro/bernes",
+    "categoria": "popular",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Berner_Sennenhund.jpg",
+    "criador": "Swiss Glory Kennel",
+    "texto": "Gentil, grande porte e pelagem tricolor exuberante; adora clima frio.",
+    "pesos": {
+      "espaco": 4,
+      "tempo": 3,
+      "energia": 3,
+      "criancas": 5,
+      "pelos": 5,
+      "orcamento": 4,
+      "tamanho": 5,
+      "alergia": 2,
+      "clima": 2,
+      "experiencia": 3,
+      "objetivo": 3,
+      "ausencia": 2
+    },
+    "porte": "grande",
+    "espaco": 4,
+    "energia": 3,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/0d/Berner_Sennenhund.jpg",
+      "https://source.unsplash.com/600x400/?Boiadeiro+Bern%C3%AAs+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": []
+  },
+  {
+    "nome": "Biewer Terrier",
+    "slug": "biewer/terrier",
+    "categoria": "rara",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/5/50/Biewer_Yorkshire_Terrier.jpg",
+    "criador": "Canil Biewer Stars",
+    "texto": "Pequenino, tricolor e de pelagem longa; companheiro alegre e ativo.",
+    "pesos": {
+      "espaco": 1,
+      "tempo": 3,
+      "energia": 3,
+      "criancas": 4,
+      "pelos": 4,
+      "orcamento": 3,
+      "tamanho": 1,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 2,
+      "objetivo": 1,
+      "ausencia": 2
+    },
+    "porte": "pequeno",
+    "espaco": 1,
+    "energia": 3,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/50/Biewer_Yorkshire_Terrier.jpg",
+      "https://source.unsplash.com/600x400/?Biewer+Terrier+dog"
+    ],
+    "grupo": "companhia",
+    "valid_images": []
+  },
+  {
+    "nome": "Pastor de Shetland",
+    "slug": "pastor/shetland",
+    "categoria": "trabalho",
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/1/19/Sheltie_1.jpg",
+    "criador": "Shelties Highlands",
+    "texto": "Inteligente, ágil e excelente em obediência; lembra Collie em miniatura.",
+    "pesos": {
+      "espaco": 3,
+      "tempo": 4,
+      "energia": 4,
+      "criancas": 5,
+      "pelos": 4,
+      "orcamento": 3,
+      "tamanho": 2,
+      "alergia": 3,
+      "clima": 3,
+      "experiencia": 3,
+      "objetivo": 3,
+      "ausencia": 2
+    },
+    "porte": "médio",
+    "espaco": 3,
+    "energia": 4,
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/19/Sheltie_1.jpg",
+      "https://source.unsplash.com/600x400/?Pastor+de+Shetland+dog"
+    ],
+    "grupo": "esporte",
+    "valid_images": []
+  }
+]
